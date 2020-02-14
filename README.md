@@ -8,7 +8,6 @@ o	When we send an email, our computer connects to our email service’s mail ser
   </p>
  <video width="320" height="240" controls>
   <source src="https://youtu.be/3Wq-ghtB0XQ" type="video/mp4">
-  <source src="https://youtu.be/3Wq-ghtB0XQ" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
